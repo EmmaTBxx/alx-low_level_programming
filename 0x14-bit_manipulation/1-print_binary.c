@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_binary_rec - the recursive funtion to handle the print binary
+ * print_binary - the recursive funtion to handle the print binary
  * @n: the number to print in binary
  */
 void print_binary(unsigned long int n)
